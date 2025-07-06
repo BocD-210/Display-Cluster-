@@ -1,2 +1,2 @@
-# Display-Cluster-
+# Display-Cluster
 Final Project: Display Cluster 
